@@ -1,5 +1,7 @@
 Name:Vaishnavi thigala
+id:GW24BD0801A1412
 company name:gwing software technologies pvt ltd
+domain:front end developer
 creating a simple random password generator web application is a great project! Below is a basic example using HTML, CSS, and JavaScript. This will generate a random password with a specified length and allow the user to copy it to the clipboard.
 1. HTML
 Create an HTML file (index.html) with the following content
